@@ -84,10 +84,12 @@ celery -A src.services.predict_service worker -l info
 python src/dash/app.py
 ```
 
-6. Переходи на страницу для [регистрации](http://127.0.0.1:8050/sign-up)
+6. Переходиv на страницу для [регистрации](http://127.0.0.1:8050/sign-up)
 
 
 ## Пример использования платформы
+
+https://github.com/InfinityMeta/DEV-ML-SERVICES-ITMO/assets/93408191/993f7f21-26be-4ae6-8b68-131e99884edf
 
 
 
